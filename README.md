@@ -6,6 +6,4 @@ record change in style guide.
 - Please write commit message in english.
 
 
-
-
 [url-res-commitlint]: https://github.com/marionebl/commitlint
